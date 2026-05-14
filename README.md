@@ -28,42 +28,4 @@
 
 
 
-## 🌟 Featured Project
 
-<p align="center">
-  <a href="https://mahira.top/">
-    <img src="https://cdn.tudubucket.dev/widebucket-rounded.png" alt="GlitchBucket Banner" width="100%"/>
-  </a>
-</p>
-
-
-<div align="center">
-
-### [GlitchBucket](https://mahira.top/) - *Vietnam's 🏆 1st Utilities Discord Bot*
-
-
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Discord](https://img.shields.io/badge/Platform-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Uptime](https://img.shields.io/badge/Uptime-99.5%25-success?style=for-the-badge)
-
-
-[![Invite Bot](https://img.shields.io/badge/Invite%20GlitchBucket-Add%20to%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://tudubucket.dev/application)
-[![Documentation](https://img.shields.io/badge/Documentation-Read%20Docs-orange?style=for-the-badge&logo=gitbook&logoColor=white)](https://bot.tudubucket.dev/)
-[![Bot Status](https://img.shields.io/badge/Bot%20Status-View-success?style=for-the-badge&logo=grafana&logoColor=white)](https://bot.tudubucket.dev/stats)
-
-</div>
-
-**GlitchBucket** is Vietnam's pioneering utilities Discord bot, providing exclusive management, automation, and interaction tools to help you operate your Discord server more professionally, consistently, and efficiently than ever before.
-
-
-#### ✨ Core Features
-
-- 💰 **Donation System** - Automatic donation tracking, milestone rewards, role assignment, leaderboards
-- 🎮 **Word-Connect Game** - Engaging Vietnamese word chain game with automatic validation
-- 📊 **Advanced Vote Statistics** - Professional event organization with customizable requirements & multiple counting methods
-- 🎨 **Custom Role Management** - Let users manage their own special roles (color, name, emoji) with automatic expiration
-- 🎁 **Advanced Giveaway** - Highly customizable requirements, live editing, and reusable templates
-- 📌 **Sticky Messages** - Pin messages with webhook support and embed customization
-
----
