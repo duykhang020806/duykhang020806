@@ -3,7 +3,7 @@
 ## 😎 About Me
 
 - Vietnamese student & developer
-- 💤 sleep
+
 
 ### 💻 Tech Stack
 
@@ -26,18 +26,12 @@
 
 ---
 
-## 🛌 Coding Activity
 
-<div align="center">
-<img src="https://wakatime.com/share/@tudubucket/21e51a7a-7378-4915-898a-eaa08e98be67.png" />
-</div>
-
----
 
 ## 🌟 Featured Project
 
 <p align="center">
-  <a href="https://tudubucket.dev/">
+  <a href="https://mahira.top/">
     <img src="https://cdn.tudubucket.dev/widebucket-rounded.png" alt="GlitchBucket Banner" width="100%"/>
   </a>
 </p>
@@ -45,7 +39,7 @@
 
 <div align="center">
 
-### [GlitchBucket](https://bot.tudubucket.dev/) - *Vietnam's 🏆 1st Utilities Discord Bot*
+### [GlitchBucket](https://mahira.top/) - *Vietnam's 🏆 1st Utilities Discord Bot*
 
 
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
